@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Patrick!👋
 
 <!--
 **patrick-philbin/patrick-philbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Preferred Name: Patrick/Pat  
+Pronouns: He/Him
+- :school_satchel: I'm currently studying Software Engineering at Michigan Technological University.
+- :computer: I have experience in Java, HTML/CSS, and a bit of C and C#.
+- :brain: I'm always looking for fun projects, so feel free to ask me about anything I'm up to!
